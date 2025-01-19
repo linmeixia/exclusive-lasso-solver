@@ -1,4 +1,4 @@
-# Project Title
+# Exclusive Lasso Solver
 Code Repository for **"A Highly Efficient Algorithm for Solving Exclusive Lasso Problems"**
 
 ## Overview
