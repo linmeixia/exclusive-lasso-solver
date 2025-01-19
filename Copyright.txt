@@ -1,0 +1,6 @@
+A MATLAB software for solving exclusive lasso problems
+
+Copyright (c) 2023 by
+Meixia Lin, Yancheng Yuan, Defeng Sun, and Kim-Chuan Toh 
+
+
